@@ -1,1 +1,1 @@
-# Collection of C programs
+# A collection of C programs
